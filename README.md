@@ -5,7 +5,7 @@ DDDot is a Joplin plugin to provide a set of tools like recent notes, shortcuts,
 **Main Features**:
 
 1. Recent Notes - Show recently opened notes
-2. Shortcuts - A bookmark of faviour notes
+2. Shortcuts - A bookmark of favorite notes
 3. Scratchpad - Write something quickly without bothering to find the right note to insert
 4. Backlinks - Show the backlinks of the currently selected note
 5. Daily Note - Create / Open a note for today.
